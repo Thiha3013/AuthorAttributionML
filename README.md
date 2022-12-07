@@ -14,3 +14,4 @@ Average accuracy from using all the data inside each blog as features for all 3 
  
 Average accuracy from using limiting amount of characters and articles as features for all 3 of the split feature sets yields 11%. This maybe because the features sets are not big enough to accurately predict the correct author.
 
+Modification of the data sets, blogs, maybe needed to increase the accuracy.
